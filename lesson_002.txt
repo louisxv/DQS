@@ -1,0 +1,62 @@
+ 	 ---------------------
+	|The features of HTML |
+	 ---------------------
+
+HTML Styles
+-----------
+
+HTML is just the basics of a webpage, in order to make it look
+more pleasing it needs to be styled, this can be achieved through
+HTML styles, HTML styles are set with the styles property,
+this property can be used to style the background of the HTML
+page including the color or adding an image, the HTML text color
+which defines the text color for an HTML element, the font of the
+HTML document or the font-family which defines the font to be
+used for an HTML element and the HTML text size which defines
+the text size for an HTML element.
+
+HTML Links
+----------
+
+HTML links can be found on nearly every web page,
+they're used to navigate through a website or to
+link other websites. HTML hyperlinks is text or
+an image you can click on, and jump to another document,
+HTML syntax are links are defined with the <a> tag
+and local links which are link to the same web site.
+
+HTML Javascript
+---------------
+
+HTML Javascipt is a script that makes the HTML
+page more dynamic and interactive. Javasctipt are
+usually set in <script> tags. The <script> tag
+is used to define a script. The <script> element
+either contains scripting statements or it points
+to an external script file through the src attribute.
+Common uses for JavaScript are image manipulation,
+form validation, and dynamic changes of content.
+
+Styling HTML with CSS
+---------------------
+
+CSS stands for Cascading Style Sheets Styling can
+be added to HTML elements in 3 ways: Inline which
+uses a style attribute in HTML elements, Internal
+which uses a <style> element in the HTML <head>
+section, External which uses one or more external
+CSS files. The most common way to add styling,
+is to keep the styles in separate CSS files.
+
+HTML Lists
+----------
+
+HTML lists are set in two different ways, unordered
+and ordered. An unordered list starts with the <ul>
+tag. Each list item starts with the <li> tag. These
+are then usually displayed and used for bullet points
+on your page. An ordered list starts with the <ol> tag.
+Each list item starts with the <li> tag. These are
+usually displayed as numbers on your web page.
+
+

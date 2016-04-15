@@ -1,0 +1,74 @@
+ +++++ An introduction to HTML ++++
+
+What is HTML?
+-------------
+
+HTML stands for Hyper Text Markup Language, it is usually used for
+describing web documents or web pages. HTML is a type of markup
+language, markup languages are comprised of markup tags so in
+this case HTML documents are comprised of HTML tags, each HTML
+tag is used to describe the webpage's content.
+
+______________________________________________________________
+
+HTML Tags
+---------
+
+HTML documents are comprised of tags, HTML tags are keywords,
+they're basically names which are surrounded by ankle brackets.
+HTML tags normally come in pairs where the first tag is the
+opening tag and the second tag is the closing tag which includes a slash.
+ 
+
+Elements
+--------
+
+Elements are what can be used in addition with the HTML tags
+themselves to make the content more organised, some elements
+include <p>, which is a an element that represents a paragraph,
+<h1> - <h6>, which displays the headings of the content in
+various levels e.g. <h1> being the biggest font and <h6>
+being the smallest font. <table> can also be element which
+represents a table in HTML, similar to this a form can be
+implemented into HTML with the use of the <form> element,
+These are called block elements. There are also other
+elements to used which are called inline descriptive
+elements, these elements are used to style the tags
+content, some of these elements include <strong> which bolds
+the text and gives a greater emphasis, <em> which renders
+the text with italics and <cite> which causes citation
+(source of information).
+
+Common Image File Formats
+-------------------------
+
+There are four main image file formats that HTML
+can understand and use. These are as follows: GIF
+which is a lossless format for image files that
+supports both animated and static images, usually
+shown as .gif, PNG (Portable Network Graphics)
+which is a raster graphics file format that
+supports lossless data compression. JPEG
+(Joint Photographic Experts Group) which is a
+format for compressing image files, this is the
+most common image format. The final format is SVG
+(Scalable Vector Graphics) which is an XML-based
+vector image format for two-dimensional graphics
+with support for interactivity and animation.
+
+HTML tables
+-----------
+
+HTML tables provide a way to access your data 
+through an organised manner. HTML Tables consists
+of Rows and Columns which are specified as cells, 
+hese cells can contain any form of data including
+text and images. The elements for tables within
+HTML include: <table> which is the main element,
+<tr> which represents the table rows, <th> which
+represents the table header and <td> which is the
+data that the table will contain.
+
+
+
+
